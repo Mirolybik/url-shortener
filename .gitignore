@@ -3,6 +3,5 @@ __pycache__
 *.pyc
 venv/
 tests/
-.env*
 .vscode/
 *.md
